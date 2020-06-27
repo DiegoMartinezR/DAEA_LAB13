@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\USUARIO\source\repos\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
